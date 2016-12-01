@@ -9,3 +9,6 @@ Process:
 3. Push your changes.
 4. Modify the repository online.
 5. Pull your changes.
+
+Successfully modified repostitory
+New directory: GitHub-Intro-SPengUCVTS
